@@ -7,7 +7,7 @@ pip install -r requirements.txt
 ```
 
 ## Create .env file at root directory
-<p>Add your bot token
+<p>Add your bot token </p>
 ```
 BOT_TOKEN=53******************************
 ```
